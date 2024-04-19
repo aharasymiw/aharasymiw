@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Andrew.  
 <img src="/superbloom.jpg" width="150" width="150" alt="Me with the 2023 superbloom."> <img src="./blisshill.jpg" width="150" width="150" alt="Me being underwhelmed by the Windows XP Hill, which is now a vineyard."> <img src="./redwoods.jpg" width="150" width="150" alt="A couple of tall, old trees, with me looking goofy in the middle.">
 
