@@ -3,7 +3,7 @@ I'm Andrew.
 
 I teach people with diverse backgrounds and diverse skill sets how to build full stack web apps at [Prime Digital Academy](https://www.primeacademy.io/).
 
-I like talking about tech so much, I joined a club for talking.  They even made me president.  If you're free Thursdays at Noon Central, [join us](https://1767.toastmastersclubs.org/)!
+I'm currently serving as the club president of Thrivent Toastmasters.  If you're free Thursdays at Noon Central, [join us](https://1767.toastmastersclubs.org/)!
 
 I live in San Francisco.  
 <img src="./sky.jpg" width="150" width="150" alt="Sunrise over SF bay."> <img src="./rainbow.jpg" width="150" width="150" alt="A double rainbow.">
